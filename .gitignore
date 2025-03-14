@@ -1,0 +1,25 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+banking_demo/
+env/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs and debug files
+logs/
+*.log
+debug.log
+
+# Environment variables and credentials
+.env
+*.env
+
+# Streamlit cache
+~/.streamlit/
+.s
